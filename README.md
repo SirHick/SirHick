@@ -19,16 +19,18 @@
 
 Bem-vindo à minha sub-rede. Sou o **Henrique Miguel Deschamps Dahmer**.
 
-- 📍 **Localização:** Jaraguá do Sul
-- 🎯 **Alvos Atuais:** Aprimorando meus conhecimentos em Desenvolvimento de Sistemas e Cibersistemas para Automação
-
 ---
 
 <h2>⚙️ Sou Estudante no CentroWEG pelo curso de Cibersistemas para Automação. </h2>
 
 ---
 
-### 🛠️ // FERRAMENTAS 
+- 📍 **Localização:** Jaraguá do Sul
+- 🎯 **Alvos Atuais:** Aprimorando meus conhecimentos em Desenvolvimento de Sistemas e Cibersistemas para Automação
+
+---
+
+### 🛠️ // TECH STACKS 
 
 <div align="center">
   <!-- Linguagens e Ferramentas -->
