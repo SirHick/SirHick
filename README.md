@@ -42,7 +42,9 @@ Bem-vindo à minha sub-rede. Sou o **Henrique Miguel Deschamps Dahmer**.
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Aiven-FF435A?style=for-the-badge&logo=aiven&logoColor=white" alt="Aiven" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
 </div>
+
 ---
 
 ### 📡 // ESTABELECER CONEXÃO
