@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- O GIF do Johnny Silverhand que você fez upload no repositório -->
-  <img src="lets-go-johnny-silverhand.jpg" alt="Johnny Silverhand Banner" width="100%">
+  <!-- Link direto extraído com sucesso -->
+  <img src="https://media.tenor.com/mO247V7OhyQAAAAC/lets-go-johnny-silverhand.gif" alt="Johnny Silverhand Banner" width="100%">
 
   <br>
   
@@ -37,7 +37,7 @@ E aí, Choom? Bem-vindo à minha sub-rede. Sou o **Henrique Miguel**.
 ### 📡 // ESTABELECER CONEXÃO
 
 <div align="center">
-  <a href="[https://linkedin.com/in/Henrique Dahmer]">
+  <a href="https://linkedin.com/in/henrique-dahmer">
     <img src="https://img.shields.io/badge/LinkedIn-00F0FF?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
   </a>
   <a href="mailto:henriquedahmer1234@gmail.com">
