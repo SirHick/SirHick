@@ -9,7 +9,7 @@
   <h1>🦾 WAKE UP, CHOOM. WE HAVE A PROBLEM TO SOLVE.</h1>
   
   <p align="center">
-    <i>"Acesso ao terminal concedido. Iniciando varredura no sistema..."</i>
+    <i>"Acesso ao terminal concedido. Iniciando varredura no perfil..."</i>
   </p>
 </div>
 
@@ -17,16 +17,15 @@
 
 ### 💾 // DADOS DO NETRUNNER
 
-E aí, Choom? Bem-vindo à minha sub-rede. Sou o **Henrique Miguel**.
+Bem-vindo à minha sub-rede. Sou o **Henrique Miguel Deschamps Dahmer**.
 
 - 📍 **Localização:** Jaraguá do Sul
-- 🎯 **Gigs Atuais:** Aprimorando meus implantes neurais em [Coloque aqui o que você está estudando, ex: Desenvolvimento Web / Python]
-- 🤝 **Procurando Fixers para:** [Coloque seus objetivos, ex: Contratos freela, vagas de estágio, projetos open-source]
-- ⚡ **Curiosidade:** Bebo mais café que um Sandevistan consome de energia térmica.
+- 🎯 **Gigs Atuais:** Aprimorando meus conhecimentos em [Desenvolvimento de Sistemas e Cibersistemas para Automação]
+- ⚡ **Emprego Atual:** Sou Estudante no CentroWEG pelo curso de Cibersistemas para Automação.
 
 ---
 
-### 🛠️ // CYBERWARE EQUIPADO (Tech Stack)
+### 🛠️ // FERRAMENTAS 
 
 <div align="center">
   <!-- Linguagens e Ferramentas -->
