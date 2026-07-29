@@ -24,7 +24,7 @@ Bem-vindo à minha sub-rede. Sou o **Henrique Miguel Deschamps Dahmer**.
 
 ---
 
-<h2>⚡ Sou Estudante no CentroWEG pelo curso de Cibersistemas para Automação. <h2>
+<h2>⚡ Sou Estudante no Centro<span style="color: blue;">WEG</span> pelo curso de Cibersistemas para Automação. <h2>
 
 ---
 
