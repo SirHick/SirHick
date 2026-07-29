@@ -1,7 +1,12 @@
 <div align="center">
-  <img src="lets-go-johnny-silverhand_2.jpg" alt="Johnny Silverhand Banner" width="100%">
+  <!-- Confirme se o nome do arquivo abaixo é idêntico ao que está salvo no seu repositório -->
+  <img src="lets-go-johnny-silverhand.gif" alt="Johnny Silverhand Banner" width="100%">
 
   <br>
+  <br>
+
+  <!-- Usando a tag h1 do HTML para garantir que o título apareça -->
+  <h1>🦾 WAKE UP, SAMURAI. WE HAVE A CODE TO COMPILE.</h1>
   
   <p align="center">
     <i>"Acesso ao terminal concedido. Iniciando varredura no sistema..."</i>
