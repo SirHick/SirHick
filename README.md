@@ -38,8 +38,11 @@ Bem-vindo à minha sub-rede. Sou o **Henrique Miguel Deschamps Dahmer**.
   <img src="https://img.shields.io/badge/Git-FCEE0A?style=for-the-badge&logo=git&logoColor=black" alt="Git" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=coffeescript&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Excalidraw-6965DB?style=for-the-badge&logo=excalidraw&logoColor=white" alt="Excalidraw" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Aiven-FF435A?style=for-the-badge&logo=aiven&logoColor=white" alt="Aiven" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </div>
-
 ---
 
 ### 📡 // ESTABELECER CONEXÃO
