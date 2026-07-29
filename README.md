@@ -1,6 +1,5 @@
 <div align="center">
-  <!-- Link direto extraído com sucesso -->
-  <img src="https://media.tenor.com/mO247V7OhyQAAAAC/lets-go-johnny-silverhand.gif" alt="Johnny Silverhand Banner" width="100%">
+  <img src="lets-go-johnny-silverhand_2.jpg" alt="Johnny Silverhand Banner" width="100%">
 
   <br>
   
