@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Confirme se o nome do arquivo abaixo é idêntico ao que está salvo no seu repositório -->
-  <img src="lets-go-johnny-silverhand.png" alt="Johnny Silverhand Banner" width="70%">
+  <img src="lets-go-johnny-silverhand.png" alt="Johnny Silverhand Banner" width="50%">
 
   <br>
   <br>
