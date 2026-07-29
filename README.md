@@ -27,9 +27,7 @@ E aí, Choom? Bem-vindo à minha sub-rede. Sou o **Henrique Miguel**.
   <!-- Linguagens e Ferramentas (Cores Cyberpunk: #FCEE0A (Amarelo), #00F0FF (Ciano), #FF003C (Vermelho Neon) -->
   <img src="https://img.shields.io/badge/JavaScript-FCEE0A?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-00F0FF?style=for-the-badge&logo=python&logoColor=black" alt="Python" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=00F0FF" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-FF003C?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Docker-1D63ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-FCEE0A?style=for-the-badge&logo=git&logoColor=black" alt="Git" />
 </div>
 
