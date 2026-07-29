@@ -35,20 +35,6 @@ E aí, Choom? Bem-vindo à minha sub-rede. Sou o **Henrique Miguel**.
 
 ---
 
-### 📊 // ESTATÍSTICAS DO SISTEMA
-
-<div align="center">
-  <!-- GitHub Stats com o usuário SirHick e tema 'radical' para combinar com o clima neon escuro -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SirHick&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirHick&layout=compact&theme=radical"/>
-  </a>
-</div>
-
----
-
 ### 📡 // ESTABELECER CONEXÃO
 
 <div align="center">
