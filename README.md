@@ -36,7 +36,7 @@ Bem-vindo à minha sub-rede. Sou o **Henrique Miguel Deschamps Dahmer**.
   <img src="https://img.shields.io/badge/Python-00F0FF?style=for-the-badge&logo=python&logoColor=black" alt="Python" />
   <img src="https://img.shields.io/badge/Node.js-FF003C?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Git-FCEE0A?style=for-the-badge&logo=git&logoColor=black" alt="Git" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=coffeescript&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Excalidraw-6965DB?style=for-the-badge&logo=excalidraw&logoColor=white" alt="Excalidraw" />
 </div>
 
