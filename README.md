@@ -46,13 +46,3 @@ Bem-vindo à minha sub-rede. Sou o **Henrique Miguel Deschamps Dahmer**.
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
 </div>
-
----
-
-### 📡 // ESTABELECER CONEXÃO
-
-<div align="center">
-  <a href="mailto:henriquedahmer1234@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-FF003C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
