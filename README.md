@@ -52,7 +52,7 @@ Bem-vindo à minha sub-rede. Sou o **Henrique Miguel Deschamps Dahmer**.
 ### 📡 // ESTABELECER CONEXÃO
 
 <div align="center">
-  <a href="(https://www.linkedin.com/in/henrique-dahmer-791209426/)">
+  <a href="[https://linkedin.com/in/henrique-dahmer]">
     <img src="https://img.shields.io/badge/LinkedIn-00F0FF?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
   </a>
   <a href="mailto:henriquedahmer1234@gmail.com">
